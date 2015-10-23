@@ -1,0 +1,17 @@
+# Site settings
+title: Jimrok's blog
+email: jiang717@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  个人博客，记录读书、编程和其他有意思的事情。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jimrok.github.io" # the base hostname & protocol for your site
+twitter_username: jimrokliu
+github_username:  jimrok
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
+input: GFM
+
+permalink: /:year/:month/:day/:title.html

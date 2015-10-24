@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+我就是Jimrok, 程序员，Quick & Dirty的架构师，干过12年的java开发，2年的Ruby开发，前端懂点CSS，js。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+####照片
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+![About Me](/images/about_me.jpg "和我的女儿")
+
+####项目
+
+我在Github的一些项目，暂时不列出来。

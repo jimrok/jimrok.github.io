@@ -12,4 +12,9 @@ permalink: /about/
 
 ####项目
 
-我在Github的一些项目，暂时不列出来。
+下面是一些我在Github的项目
+
+__使用DO的API部署一个ss的服务器__
+
+使用Mina进行部署，随机端口和密码，使用时候产生，用完后销毁，充分利用DO的资源。
+[https://github.com/jimrok/do_ss](https://github.com/jimrok/do_ss)

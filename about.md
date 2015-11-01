@@ -8,7 +8,7 @@ permalink: /about/
 
 ####照片
 
-![About Me](/images/about_me.jpg "和我的女儿")
+![照片](/images/about_me.jpg)
 
 ####项目
 

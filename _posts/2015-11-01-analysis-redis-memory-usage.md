@@ -41,13 +41,13 @@ database,type,key,size_in_bytes,encoding,num_elements,len_largest_element
 0,sortedset,"conv_feed:577",109,ziplist,1,8
 0,string,"user:first_login:3002",94,string,8,8
 ```
-database 是Redis数据库的编号
-type 是Redis中的数据类型：set,sortedset,string,list,hash
-key Redis中使用的Key
-size_in_bytes 内存中使用的bytes数
-encoding 编码方式
-num_elements 元素个数
-len_largest_element 最大元素的长度
+database 是Redis数据库的编号  
+type 是Redis中的数据类型：set,sortedset,string,list,hash  
+key Redis中使用的Key  
+size_in_bytes 内存中使用的bytes数  
+encoding 编码方式  
+num_elements 元素个数  
+len_largest_element 最大元素的长度  
 
 剩下的事情就是写个程序去分析一下那个类型的key占了最多的内存。ruby党自然是用ruby去写。
 

@@ -6,11 +6,11 @@ permalink: /about/
 
 我就是Jimrok, 程序员，Quick & Dirty的架构师，干过12年的java开发，2年的Ruby开发，前端懂点CSS，js。
 
-####照片
+### 照片
 
 ![照片](/images/about_me.jpg)
 
-####项目
+### 项目
 
 下面是一些我在Github的项目
 

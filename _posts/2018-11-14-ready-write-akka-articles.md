@@ -2,7 +2,7 @@
 layout: post
 title:  "准备写点akka的文章"
 date:   2018-11-14 22:34:25
-categories: Redis memery rdbtools
+categories: Akka actor java
 ---
 
 准备写点akka的入门文章，写给java的程序员。我已经使用akka了一段时间，一些用akka作为异步框架的系统，运行的非常稳定，程序的复杂性也降低很多。总的来说，akka是值得java的程序员去学习和使用的，但目前看，akka并没有得到很好的重视，大部分的人都热衷去学习Spring的一套框架。而异步并发方面，用比较丑陋的线程池去完成。我想，这里面的原因大概有这些：

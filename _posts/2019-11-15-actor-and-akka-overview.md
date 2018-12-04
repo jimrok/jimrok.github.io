@@ -109,7 +109,9 @@ public class AkkaMessageActor extends AbstractActor {
 
  * 最后，这个例子可以用来替代java的异步操作，对java稍微熟练的同学，都会使用ExecutorService.newSingleThreadExecutor创建一个异步执行的功能，akka的actor可以做一样的事情。
 
+
  ### 为啥要用Akka呢
+
 
  当你看完这个例子后，你可能会觉得，java的异步挺好的，为啥要用akka来替代呢？发送一个消息不就类似为异步的Task对象提供一个参数吗？直接用JDK里ExecutorService不是挺好，用把事情搞得那么复杂吗。那答案就是通常情况下，ExecutorService就够用了，但akka可以把更复杂的事情变得简单。
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "actor和akka"
+title:  "actor和akka，写给java程序员的Akka"
 date:   2018-11-15 22:34:25
 categories: Akka actor java
 ---
